@@ -1,4 +1,4 @@
-#	Gaming Behavioral Matchmaking System is empty. 
+#	Gaming Behavioral Matchmaking System. 
 
 ##	Project Team Roles
 
