@@ -11,23 +11,23 @@
 
 ## Product Backlog  
 
-	https://dev.azure.com/SWE6733/Gaming%20Behavioral%20Matchmaking%20System/_backlogs/backlog/Gaming%20Behavioral%20Matchmaking%20System%20Team/Stories
+[Click here to see Product Backlog](https://dev.azure.com/SWE6733/Gaming%20Behavioral%20Matchmaking%20System/_backlogs/backlog/Gaming%20Behavioral%20Matchmaking%20System%20Team/Stories)
 
 ## Far Product Vision 
 
-	The product will have market place for buying and selling video games and video game assets.
+The product will have market place for buying and selling video games and video game assets.
 
 ## Rationale for backlog order  
 	
-	User Story 1, 2, 3 and 4 are given priority 1 as these form the core fuctionality of this application. These 
-	are ordered as per the sequence of steps to play a game.
+User Story 1, 2, 3 and 4 are given priority 1 as these form the core fuctionality of this application. These 
+are ordered as per the sequence of steps to play a game.
 
-	User Stories 5 to 9 have the same priority 2 as these are required features but not part of the match-making 
-	algorithm.
+User Stories 5 to 9 have the same priority 2 as these are required features but not part of the match-making 
+algorithm.
 
-	User Story 10 has the priority of 3 as this is a good to have feature but not requested.
+User Story 10 has the priority of 3 as this is a good to have feature but not requested.
 
-=================================================================================================================================	
+---
 # GBMS
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
@@ -56,4 +56,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-=================================================================================================================================
+---
