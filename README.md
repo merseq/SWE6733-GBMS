@@ -30,9 +30,16 @@ In the near future the product will expand to incorporate the following features
 
 ## Product Backlog  
 
-![alt text](/resources/images/Product%20backlog.png "Product Backlog")
+The figure below shows the Product backlog based on User Stories:
+![alt text](/resources/images/Product%20backlog.png "Product Backlog (User Stories)")
 
-### [Click here to see Product Backlog](https://dev.azure.com/SWE6733/Gaming%20Behavioral%20Matchmaking%20System/_backlogs/backlog/Gaming%20Behavioral%20Matchmaking%20System%20Team/Stories)
+### [Click here to see Product Backlog (user Stories)](https://dev.azure.com/SWE6733/Gaming%20Behavioral%20Matchmaking%20System/_backlogs/backlog/Gaming%20Behavioral%20Matchmaking%20System%20Team/Stories)
+
+
+The figure below shows the Product backlog based on Features:
+![alt text](/resources/images/features.png "Product Backlog (Features)")
+
+### [Click here to see Product Backlog (Features)](https://dev.azure.com/SWE6733/Gaming%20Behavioral%20Matchmaking%20System/_backlogs/backlog/Gaming%20Behavioral%20Matchmaking%20System%20Team/Features)
 
 
 ## Rationale for backlog order  
