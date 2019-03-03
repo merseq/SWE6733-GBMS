@@ -11,6 +11,8 @@
 
 ## Product Backlog  
 
+![alt text](/resources/images/Product%20backlog.png "Product Backlog")
+
 [Click here to see Product Backlog](https://dev.azure.com/SWE6733/Gaming%20Behavioral%20Matchmaking%20System/_backlogs/backlog/Gaming%20Behavioral%20Matchmaking%20System%20Team/Stories)
 
 ## Far Product Vision 
@@ -28,7 +30,7 @@ algorithm.
 User Story 10 has the priority of 3 as this is a good to have feature but not requested.
 
 ---
-# GBMS
+# GBMS Project Specifications and Commands
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
 
