@@ -9,23 +9,37 @@
 5. Vincent Ogonor - Developer
 
 
+##  Short-term Product Vision 
+
+Our short term goal is to build a gaming platform that primarily provides the following features:
+1.  A second to none matchmaking experience which incorporates human behaviors, player skill level and player community standing.
+2.  Players would have the ability to form parties or lobbies with their friends, so that they can have the best gaming experience with like minded people.
+3.  Players would be able to add other players to their friends list or gaming groups.
+4.  Players would have the ability to rate their team-mates after each match which would lay the foundation for behavioral matchmaking.
+
+
+##  Long-term Product Vision 
+
+In the near future the product will expand to incorporate the following features:
+1.  A digital marketplace for buying and selling videogames for the PC, X Box One and PlaySatation 4 platforms.
+2.  A secondary marketplace for buying and selling Digital in-game items.
+3.  A trading environment that would allow players to trade or exchange their digital items.
+4.  A social media platform that would allow players to post and share their gameplay with the gaming community.
+5.  A forum where players could discuss topics realted to gaming.
+
+
 ## Product Backlog  
 
 ![alt text](/resources/images/Product%20backlog.png "Product Backlog")
 
-[Click here to see Product Backlog](https://dev.azure.com/SWE6733/Gaming%20Behavioral%20Matchmaking%20System/_backlogs/backlog/Gaming%20Behavioral%20Matchmaking%20System%20Team/Stories)
+### [Click here to see Product Backlog](https://dev.azure.com/SWE6733/Gaming%20Behavioral%20Matchmaking%20System/_backlogs/backlog/Gaming%20Behavioral%20Matchmaking%20System%20Team/Stories)
 
-## Far Product Vision 
-
-The product will have market place for buying and selling video games and video game assets.
 
 ## Rationale for backlog order  
 	
-User Story 1, 2, 3 and 4 are given priority 1 as these form the core fuctionality of this application. These 
-are ordered as per the sequence of steps to play a game.
+User Story 1, 2, 3 and 4 are given priority 1 as these form the core fuctionality of this application. These are ordered as per the sequence of steps to play a game.
 
-User Stories 5 to 9 have the same priority 2 as these are required features but not part of the match-making 
-algorithm.
+User Stories 5 to 9 have the same priority 2 as these are required features but not part of the match-making algorithm.
 
 User Story 10 has the priority of 3 as this is a good to have feature but not requested.
 
